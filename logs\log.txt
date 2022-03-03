@@ -1,0 +1,99 @@
+2022-02-25 17:23:26 INFO  com.revature.App:13 - Starting Application
+2022-02-25 17:23:26 ERROR revature.util.ConnectionUtil:84 - Can't establish connection to DB with given credentials
+2022-02-25 17:24:48 INFO  com.revature.App:13 - Starting Application
+2022-02-25 17:24:48 ERROR revature.util.ConnectionUtil:84 - Can't establish connection to DB with given credentials
+2022-02-25 17:27:10 INFO  com.revature.App:13 - Starting Application
+2022-02-25 17:27:10 ERROR revature.util.ConnectionUtil:84 - Can't establish connection to DB with given credentials
+2022-02-25 17:30:50 INFO  com.revature.App:13 - Starting Application
+2022-02-25 17:30:51 ERROR revature.util.ConnectionUtil:84 - Can't establish connection to DB with given credentials
+2022-02-25 17:57:44 INFO  com.revature.App:13 - Starting Application
+2022-02-25 17:57:44 ERROR revature.util.ConnectionUtil:84 - Can't establish connection to DB with given credentials
+2022-02-25 17:59:21 INFO  com.revature.App:13 - Starting Application
+2022-02-25 17:59:21 ERROR revature.util.ConnectionUtil:84 - Can't establish connection to DB with given credentials
+2022-02-25 18:03:17 INFO  com.revature.App:13 - Starting Application
+2022-02-25 18:03:17 ERROR revature.util.ConnectionUtil:84 - Can't establish connection to DB with given credentials
+2022-02-25 18:05:16 INFO  com.revature.App:13 - Starting Application
+2022-02-25 18:05:16 ERROR revature.util.ConnectionUtil:84 - Can't establish connection to DB with given credentials
+2022-02-25 18:22:04 INFO  com.revature.App:13 - Starting Application
+2022-02-25 18:22:04 ERROR revature.util.ConnectionUtil:84 - Can't establish connection to DB with given credentials
+2022-02-25 18:24:10 INFO  com.revature.App:13 - Starting Application
+2022-02-25 18:24:10 ERROR revature.util.ConnectionUtil:84 - Can't establish connection to DB with given credentials
+2022-02-27 11:09:27 INFO  com.revature.App:13 - Starting Application
+2022-02-27 11:09:27 ERROR revature.util.ConnectionUtil:84 - Can't establish connection to DB with given credentials
+2022-02-27 11:14:06 INFO  com.revature.App:13 - Starting Application
+2022-02-27 11:14:06 ERROR revature.util.ConnectionUtil:84 - Can't establish connection to DB with given credentials
+2022-02-27 11:15:36 INFO  com.revature.App:13 - Starting Application
+2022-02-27 11:15:36 WARN  revature.util.ConnectionUtil:87 - couldn't read from application.properties at specified path
+2022-02-27 11:19:07 INFO  com.revature.App:13 - Starting Application
+2022-02-27 11:19:07 ERROR revature.util.ConnectionUtil:84 - Can't establish connection to DB with given credentials
+2022-02-27 11:39:25 INFO  com.revature.App:13 - Starting Application
+2022-02-27 11:39:25 ERROR revature.util.ConnectionUtil:84 - Can't establish connection to DB with given credentials
+2022-02-28 22:35:59 INFO  revature.util.ConnectionUtil:81 - Successfully connected to DB
+2022-02-28 22:35:59 WARN  revature.dao.UserDaoImpl:169 - SQL Exception thrown - can't retrieve User from DB
+2022-03-01 01:18:34 INFO  revature.util.ConnectionUtil:81 - Successfully connected to DB
+2022-03-01 01:18:34 INFO  revature.util.ConnectionUtil:52 - returned the re-used connection object
+2022-03-01 01:18:34 INFO  revature.util.ConnectionUtil:52 - returned the re-used connection object
+2022-03-01 01:18:34 INFO  revature.util.ConnectionUtil:52 - returned the re-used connection object
+2022-03-01 01:18:34 INFO  revature.util.ConnectionUtil:52 - returned the re-used connection object
+2022-03-01 01:18:34 INFO  revature.util.ConnectionUtil:52 - returned the re-used connection object
+2022-03-01 01:19:14 INFO  revature.util.ConnectionUtil:81 - Successfully connected to DB
+2022-03-01 01:19:14 INFO  revature.util.ConnectionUtil:52 - returned the re-used connection object
+2022-03-01 01:19:14 INFO  revature.util.ConnectionUtil:52 - returned the re-used connection object
+2022-03-01 01:19:14 INFO  revature.util.ConnectionUtil:52 - returned the re-used connection object
+2022-03-01 01:19:14 INFO  revature.util.ConnectionUtil:52 - returned the re-used connection object
+2022-03-01 01:19:14 INFO  revature.util.ConnectionUtil:52 - returned the re-used connection object
+2022-03-01 01:28:58 INFO  revature.util.ConnectionUtil:81 - Successfully connected to DB
+2022-03-01 01:28:58 INFO  revature.util.ConnectionUtil:52 - returned the re-used connection object
+2022-03-01 01:28:58 INFO  revature.util.ConnectionUtil:52 - returned the re-used connection object
+2022-03-01 01:28:58 INFO  revature.util.ConnectionUtil:52 - returned the re-used connection object
+2022-03-01 01:28:58 INFO  revature.util.ConnectionUtil:52 - returned the re-used connection object
+2022-03-01 01:28:58 INFO  revature.util.ConnectionUtil:52 - returned the re-used connection object
+2022-03-01 01:29:42 INFO  revature.util.ConnectionUtil:81 - Successfully connected to DB
+2022-03-01 01:29:42 INFO  revature.util.ConnectionUtil:52 - returned the re-used connection object
+2022-03-01 01:29:42 INFO  revature.util.ConnectionUtil:52 - returned the re-used connection object
+2022-03-01 01:29:42 INFO  revature.util.ConnectionUtil:52 - returned the re-used connection object
+2022-03-01 01:29:42 INFO  revature.util.ConnectionUtil:52 - returned the re-used connection object
+2022-03-01 01:29:42 INFO  revature.util.ConnectionUtil:52 - returned the re-used connection object
+2022-03-01 15:14:59 INFO  revature.util.ConnectionUtil:81 - Successfully connected to DB
+2022-03-01 15:14:59 WARN  revature.dao.UserDaoImpl:135 - SQL Exception thrown - can't retrieve User from DB
+2022-03-01 15:15:22 INFO  revature.util.ConnectionUtil:81 - Successfully connected to DB
+2022-03-01 15:15:22 WARN  revature.dao.UserDaoImpl:135 - SQL Exception thrown - can't retrieve User from DB
+2022-03-01 15:15:22 INFO  revature.services.UserService:27 - successfully registered user with username will
+2022-03-01 15:15:22 INFO  revature.util.ConnectionUtil:81 - Successfully connected to DB
+2022-03-01 15:15:22 ERROR revature.dao.UserDaoImpl:72 - Unable to insert User - SQL exception thrown
+2022-03-01 20:28:52 INFO  revature.util.ConnectionUtil:81 - Successfully connected to DB
+2022-03-01 20:28:52 WARN  revature.dao.UserDaoImpl:162 - SQL Exception thrown - can't retrieve User from DB
+2022-03-01 20:29:30 INFO  revature.util.ConnectionUtil:81 - Successfully connected to DB
+2022-03-01 20:29:30 WARN  revature.dao.UserDaoImpl:162 - SQL Exception thrown - can't retrieve User from DB
+2022-03-01 20:29:30 INFO  revature.services.UserService:39 - successfully registered user with username will
+2022-03-01 20:29:30 INFO  revature.util.ConnectionUtil:81 - Successfully connected to DB
+2022-03-01 20:29:30 ERROR revature.dao.UserDaoImpl:72 - Unable to insert User - SQL exception thrown
+2022-03-01 21:38:42 INFO  revature.util.ConnectionUtil:81 - Successfully connected to DB
+2022-03-01 21:38:42 WARN  revature.dao.UserDaoImpl:162 - SQL Exception thrown - can't retrieve User from DB
+2022-03-01 22:40:16 INFO  revature.util.ConnectionUtil:81 - Successfully connected to DB
+2022-03-01 22:40:16 WARN  revature.dao.UserDaoImpl:162 - SQL Exception thrown - can't retrieve User from DB
+2022-03-01 22:44:14 INFO  revature.util.ConnectionUtil:81 - Successfully connected to DB
+2022-03-01 22:44:14 WARN  revature.dao.UserDaoImpl:162 - SQL Exception thrown - can't retrieve User from DB
+2022-03-01 22:50:38 INFO  revature.util.ConnectionUtil:81 - Successfully connected to DB
+2022-03-01 22:50:38 WARN  revature.dao.UserDaoImpl:162 - SQL Exception thrown - can't retrieve User from DB
+2022-03-01 23:36:59 ERROR revature.util.ConnectionUtil:83 - Can't establish connection to DB with given credentials
+2022-03-01 23:37:57 ERROR revature.util.ConnectionUtil:83 - Can't establish connection to DB with given credentials
+2022-03-01 23:51:08 ERROR revature.util.ConnectionUtil:83 - Can't establish connection to DB with given credentials
+2022-03-01 23:51:36 ERROR revature.util.ConnectionUtil:83 - Can't establish connection to DB with given credentials
+2022-03-01 23:53:10 ERROR revature.util.ConnectionUtil:83 - Can't establish connection to DB with given credentials
+2022-03-01 23:53:31 ERROR revature.util.ConnectionUtil:83 - Can't establish connection to DB with given credentials
+2022-03-02 00:03:47 ERROR revature.util.ConnectionUtil:83 - Can't establish connection to DB with given credentials
+2022-03-02 00:05:35 ERROR revature.util.ConnectionUtil:83 - Can't establish connection to DB with given credentials
+2022-03-02 00:15:49 ERROR revature.util.ConnectionUtil:83 - Can't establish connection to DB with given credentials
+2022-03-02 00:18:52 ERROR revature.util.ConnectionUtil:83 - Can't establish connection to DB with given credentials
+2022-03-02 00:25:38 ERROR revature.util.ConnectionUtil:83 - Can't establish connection to DB with given credentials
+2022-03-02 00:29:43 ERROR revature.util.ConnectionUtil:83 - Can't establish connection to DB with given credentials
+2022-03-02 00:32:45 INFO  revature.services.UserService:41 - successfully registered user with username spongebob
+2022-03-02 00:32:45 INFO  revature.services.UserService:76 - password and username combination for userx was incorrect
+2022-03-02 01:00:19 ERROR revature.util.ConnectionUtil:83 - Can't establish connection to DB with given credentials
+2022-03-02 01:03:29 ERROR revature.util.ConnectionUtil:83 - Can't establish connection to DB with given credentials
+2022-03-02 08:44:13 ERROR revature.util.ConnectionUtil:83 - Can't establish connection to DB with given credentials
+2022-03-02 08:45:03 ERROR revature.util.ConnectionUtil:83 - Can't establish connection to DB with given credentials
+2022-03-02 09:26:52 ERROR revature.util.ConnectionUtil:83 - Can't establish connection to DB with given credentials
+2022-03-02 09:33:12 ERROR revature.util.ConnectionUtil:83 - Can't establish connection to DB with given credentials
+2022-03-02 09:55:16 ERROR revature.util.ConnectionUtil:83 - Can't establish connection to DB with given credentials
